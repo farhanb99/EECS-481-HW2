@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.jsoup.parser.HtmlParserTest
+-------------------------------------------------------------------------------
+Tests run: 127, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 1.253 sec - in org.jsoup.parser.HtmlParserTest
